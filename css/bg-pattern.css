@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    background: linear-gradient(45deg, #1a1a1a, #444444, #1a1a1a);
+    background-size: 200% 200%;
+    animation: gradientAnimation 3s ease infinite;
+}
+
+body {
+    color: #ffffff; /* Set text color to white or a suitable contrasting color */
+    /* Add any additional styles here */
+}
+
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.css-pattern-bg {
+    /* Additional styles for the content if needed */
+}
