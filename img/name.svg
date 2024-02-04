@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+    <defs>
+        <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color: yellow; stop-opacity:1" />
+            <stop offset="100%" style="stop-color: #FFD700; stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <text x="5" y="60" font-family="Georgia, sans-serif" font-size="50" font-weight="bold" fill="url(#textGradient)">ARSHDEEP</text>
+    <text x="5" y="98" font-family="Georgia, sans-serif" font-size="50" font-weight="bold" fill="url(#textGradient)">SINGH</text>
+</svg>
